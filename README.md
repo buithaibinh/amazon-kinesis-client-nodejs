@@ -1,3 +1,5 @@
+https://data-processing.serverlessworkshops.io/cleanup.html
+
 # Amazon Kinesis Client Library for Node.js
 
 This package provides an interface to the [Amazon Kinesis Client Library][amazon-kcl] (KCL) [MultiLangDaemon][multi-lang-daemon] for the Node.js framework.
